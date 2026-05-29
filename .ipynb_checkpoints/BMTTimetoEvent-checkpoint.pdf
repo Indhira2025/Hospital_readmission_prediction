@@ -2,10 +2,18 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 124,
+   "execution_count": 2,
    "id": "fffa9fcc-32e1-4307-9720-f28ccccb2a10",
    "metadata": {},
    "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "C:\\Users\\indhi\\dhct_env\\lib\\site-packages\\tqdm\\auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html\n",
+      "  from .autonotebook import tqdm as notebook_tqdm\n"
+     ]
+    },
     {
      "name": "stdout",
      "output_type": "stream",
@@ -34,7 +42,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 125,
+   "execution_count": 2,
    "id": "b7c59aed-d06d-4479-a3c1-6e124a94865a",
    "metadata": {},
    "outputs": [],
@@ -45,7 +53,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 126,
+   "execution_count": 3,
    "id": "9aac7f93-ba69-4a4e-8c58-259485fe23e3",
    "metadata": {},
    "outputs": [
@@ -82,7 +90,7 @@
        " 'steps.csv']"
       ]
      },
-     "execution_count": 126,
+     "execution_count": 3,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -102,7 +110,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 127,
+   "execution_count": 4,
    "id": "7acdd848-463b-430d-aa1f-fa02601be260",
    "metadata": {},
    "outputs": [
@@ -150,7 +158,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 128,
+   "execution_count": 5,
    "id": "ba48ff97-218a-41ca-9b77-b5960847f657",
    "metadata": {},
    "outputs": [
@@ -313,7 +321,7 @@
        "4                     172  0.119444          87.209302       12.790698  "
       ]
      },
-     "execution_count": 128,
+     "execution_count": 5,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -327,7 +335,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 129,
+   "execution_count": 6,
    "id": "6d81a6c1-5189-4f7d-a40e-865e9a7a77fb",
    "metadata": {},
    "outputs": [
@@ -504,7 +512,7 @@
        "4  104.145934  90.451996  "
       ]
      },
-     "execution_count": 129,
+     "execution_count": 6,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -519,7 +527,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 130,
+   "execution_count": 7,
    "id": "78c47010-2762-4a29-a5c0-4f3b2ddc84b4",
    "metadata": {},
    "outputs": [
@@ -696,7 +704,7 @@
        "4            4  "
       ]
      },
-     "execution_count": 130,
+     "execution_count": 7,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -710,7 +718,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 131,
+   "execution_count": 8,
    "id": "7e09656c-a771-4875-8fb4-f12afda377a1",
    "metadata": {},
    "outputs": [
@@ -908,7 +916,7 @@
        "4          22  "
       ]
      },
-     "execution_count": 131,
+     "execution_count": 8,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -922,7 +930,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 132,
+   "execution_count": 9,
    "id": "b285c75f-e1f1-45b2-a25b-7e728515f10b",
    "metadata": {},
    "outputs": [
@@ -1022,7 +1030,7 @@
        "4            P270     7   16:40:05  Caregivers                   4"
       ]
      },
-     "execution_count": 132,
+     "execution_count": 9,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1036,7 +1044,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 133,
+   "execution_count": 10,
    "id": "31fb1210-c1ff-4db2-8249-ddc39fc96931",
    "metadata": {},
    "outputs": [
@@ -1301,7 +1309,7 @@
        "[5 rows x 48 columns]"
       ]
      },
-     "execution_count": 133,
+     "execution_count": 10,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1345,7 +1353,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 134,
+   "execution_count": 11,
    "id": "7fb347c2-7d06-4821-9ced-881c6cf4286c",
    "metadata": {},
    "outputs": [
@@ -1376,7 +1384,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 135,
+   "execution_count": 12,
    "id": "d4edeb90-6b15-40d8-938a-63dd42faff07",
    "metadata": {},
    "outputs": [
@@ -1592,7 +1600,7 @@
        "[5 rows x 48 columns]"
       ]
      },
-     "execution_count": 135,
+     "execution_count": 12,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1611,7 +1619,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 136,
+   "execution_count": 13,
    "id": "aff275ec-053b-4296-9c4a-54b7e96a4b80",
    "metadata": {},
    "outputs": [
@@ -1824,7 +1832,7 @@
        "[5 rows x 48 columns]"
       ]
      },
-     "execution_count": 136,
+     "execution_count": 13,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1835,7 +1843,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 137,
+   "execution_count": 15,
    "id": "84a54199-f3c9-4139-b7c7-1e3a198cadc4",
    "metadata": {},
    "outputs": [
@@ -1960,7 +1968,7 @@
        "4              17.0  "
       ]
      },
-     "execution_count": 137,
+     "execution_count": 15,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1980,7 +1988,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 138,
+   "execution_count": 16,
    "id": "5a223e31-ab0d-43f8-b002-6c9f336da692",
    "metadata": {},
    "outputs": [
@@ -2007,7 +2015,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 139,
+   "execution_count": 17,
    "id": "e12f0b70-7368-4b78-89ba-8cfb04897e42",
    "metadata": {},
    "outputs": [
@@ -2015,7 +2023,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Minimum date_admit(days): 16.0\n"
+      "Corrected minimum date_admit: 16.0\n"
      ]
     }
    ],
@@ -2026,12 +2034,12 @@
     "df_readmission.loc[df_readmission['date_admit'] < 0, 'date_admit'] = np.nan\n",
     "\n",
     "# Recalculate your minimum to verify the fix\n",
-    "print(\"Minimum date_admit(days):\", df_readmission['date_admit'].min())\n"
+    "print(\"Corrected minimum date_admit:\", df_readmission['date_admit'].min())\n"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 140,
+   "execution_count": 18,
    "id": "e8241c2d-1216-42b5-8fa4-575bdba32808",
    "metadata": {},
    "outputs": [
@@ -2068,7 +2076,55 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 141,
+   "execution_count": 19,
+   "id": "335c1e05-d0c3-4323-b0da-6052016bb2fe",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Admitted At Least Once    85\n",
+      "Never Admitted            72\n",
+      "Name: count, dtype: int64\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Group the max counts into binary text descriptions\n",
+    "readmission_summary = np.where(patient_max_admissions >= 1, \"Admitted At Least Once\", \"Never Admitted\")\n",
+    "\n",
+    "# Print the final value counts\n",
+    "print(pd.Series(readmission_summary).value_counts())\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "494dd2d0-99be-4636-b536-4d586865b576",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "85\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Find IDs of patients who have been readmitted at least once\n",
+    "readmitted_ids = df_readmission.loc[\n",
+    "    df_readmission['number_admission'] >= 1,\n",
+    "    'STUDY_PRTCPT_ID'\n",
+    "].nunique()\n",
+    "\n",
+    "print(readmitted_ids)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
    "id": "8b47a92b-494d-432f-803d-cd2f357f3511",
    "metadata": {},
    "outputs": [
@@ -2181,7 +2237,7 @@
        "28              16.0  "
       ]
      },
-     "execution_count": 141,
+     "execution_count": 21,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2195,47 +2251,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 142,
-   "id": "335c1e05-d0c3-4323-b0da-6052016bb2fe",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Admitted At Least Once    85\n",
-      "Never Admitted            72\n",
-      "Name: count, dtype: int64\n"
-     ]
-    }
-   ],
-   "source": [
-    "# Group the max counts into binary text descriptions\n",
-    "readmission_summary = np.where(patient_max_admissions >= 1, \"Admitted At Least Once\", \"Never Admitted\")\n",
-    "\n",
-    "# Print the final value counts\n",
-    "print(pd.Series(readmission_summary).value_counts())\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 143,
-   "id": "494dd2d0-99be-4636-b536-4d586865b576",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "# Find IDs of patients who have been readmitted at least once\n",
-    "readmitted_ids = df_readmission.loc[\n",
-    "    df_readmission['number_admission'] >= 1,\n",
-    "    'STUDY_PRTCPT_ID'\n",
-    "].nunique()\n",
-    "\n",
-    "#print(readmitted_ids)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 144,
+   "execution_count": 22,
    "id": "e623265a-7fdc-4134-afe3-2a3e08ec7dd2",
    "metadata": {},
    "outputs": [
@@ -2341,7 +2357,7 @@
        "4              17.0  "
       ]
      },
-     "execution_count": 144,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2357,7 +2373,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 145,
+   "execution_count": 24,
    "id": "5f491edb-b1a2-4642-80d7-967d851848e5",
    "metadata": {},
    "outputs": [
@@ -2460,7 +2476,7 @@
        "4              26.0  "
       ]
      },
-     "execution_count": 145,
+     "execution_count": 24,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2490,42 +2506,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 146,
-   "id": "a93e8639-7d7c-48c7-8ad4-604869ec5291",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "The earliest readmission in the dataset occurred on day: 16.0\n"
-     ]
-    }
-   ],
-   "source": [
-    "# checking the earliest readmission in df_first_readmission subset\n",
-    "\n",
-    "overall_min_admit = df_first_readmission['date_admit'].min()\n",
-    "print(f\"The earliest readmission in the dataset occurred on day: {overall_min_admit}\")"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "21b61fed-b976-474b-b8b6-601269d113db",
-   "metadata": {},
-   "source": [
-    "Day 0 (Transplant)             Day 15 (Landmark)             Day 120 (End)\n",
-    "\n",
-    "       |------------------------------|----------------------------->\n",
-    "       [  Wearable Gathering Window  ] [     Model Prediction Window   ]\n",
-    "                                      ^\n",
-    "                               Model Starts HERE"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 147,
-   "id": "40986293-c663-48b6-aa9e-c8fdc665de17",
+   "execution_count": 26,
+   "id": "10979297-0d71-438a-bd06-410ffa44918a",
    "metadata": {},
    "outputs": [
     {
@@ -2534,8 +2516,8 @@
      "text": [
       "Distribution of the new readmission_label:\n",
       "readmission_label\n",
-      "0    95\n",
-      "1    62\n",
+      "1    85\n",
+      "0    72\n",
       "Name: count, dtype: int64\n"
      ]
     },
@@ -2576,7 +2558,7 @@
        "      <td>315.0</td>\n",
        "      <td>337.0</td>\n",
        "      <td>22.0</td>\n",
-       "      <td>0</td>\n",
+       "      <td>1</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
@@ -2627,39 +2609,53 @@
        "4            P005                 1        27.0            53.0   \n",
        "\n",
        "   days_in_hospital  readmission_label  \n",
-       "0              22.0                  0  \n",
+       "0              22.0                  1  \n",
        "1              13.0                  1  \n",
        "2               8.0                  1  \n",
        "3              52.0                  1  \n",
        "4              26.0                  1  "
       ]
      },
-     "execution_count": 147,
+     "execution_count": 26,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "# 2. Map target labels (Since min day is 16, no patients are excluded!)\n",
-    "df_targets_final = df_first_readmission.copy()\n",
-    "# 3. Calculate time-to-event relative to Day 15\n",
-    "# (Adjust 180 to match your study's maximum tracking cutoff if different)\n",
-    "MAX_STUDY_DAY = 120 \n",
+    "# 1. Create the binary readmission label\n",
+    "# 1 if number_admission is 1, and 0 if number_admission is 0\n",
+    "df_first_readmission['readmission_label'] = df_first_readmission['number_admission'].astype(int)\n",
     "\n",
-    "df_targets_final['readmission_label'] = np.where(\n",
-    "    (df_targets_final['number_admission'] == 1) & (df_targets_final['date_admit'] <= MAX_STUDY_DAY),\n",
-    "    1, \n",
-    "    0\n",
-    ")\n",
-    "#$Verify that the mapping matches your value counts exactly\n",
+    "# 2. Verify that the mapping matches your value counts exactly\n",
     "print(\"Distribution of the new readmission_label:\")\n",
-    "print(df_targets_final['readmission_label'].value_counts())\n",
-    "df_targets_final.head()"
+    "print(df_first_readmission['readmission_label'].value_counts())\n",
+    "\n",
+    "# 3. Preview the updated subset dataframe\n",
+    "df_first_readmission.head()\n"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 148,
+   "execution_count": 27,
+   "id": "a93e8639-7d7c-48c7-8ad4-604869ec5291",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "The earliest readmission in the dataset occurred on day: 16.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "overall_min_admit = df_first_readmission['date_admit'].min()\n",
+    "print(f\"The earliest readmission in the dataset occurred on day: {overall_min_admit}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
    "id": "e24ef9a4-51d9-4ebb-8808-5ecfd4768620",
    "metadata": {},
    "outputs": [
@@ -2668,7 +2664,7 @@
      "output_type": "stream",
      "text": [
       "Total Cohort Size: 157 patients.\n",
-      "Readmission Event Count: 62\n",
+      "Readmission Event Count: 85\n",
       "Minimum time to event(in days): 1.0\n"
      ]
     },
@@ -2710,8 +2706,8 @@
        "      <td>315.0</td>\n",
        "      <td>337.0</td>\n",
        "      <td>22.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>105.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>300.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
@@ -2766,26 +2762,29 @@
        "4            P005                 1        27.0            53.0   \n",
        "\n",
        "   days_in_hospital  readmission_label  time_to_event  \n",
-       "0              22.0                  0          105.0  \n",
+       "0              22.0                  1          300.0  \n",
        "1              13.0                  1           35.0  \n",
        "2               8.0                  1            6.0  \n",
        "3              52.0                  1           25.0  \n",
        "4              26.0                  1           12.0  "
       ]
      },
-     "execution_count": 148,
+     "execution_count": 28,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
+    "# 2. Map target labels (Since min day is 16, no patients are excluded!)\n",
+    "df_targets_final = df_first_readmission.copy()\n",
+    "# 3. Calculate time-to-event relative to Day 15\n",
+    "# (Adjust 180 to match your study's maximum tracking cutoff if different)\n",
+    "MAX_STUDY_DAY = 120 \n",
     "\n",
-    "\n",
-    "# 2. Calculate time-to-event \n",
     "df_targets_final['time_to_event'] = np.where(\n",
     "    df_targets_final['readmission_label'] == 1,\n",
     "    df_targets_final['date_admit'] - 15,\n",
-    "    MAX_STUDY_DAY - 15  # Everyone else gets capped at the end of the study window (120 - 15 = 105)\n",
+    "    MAX_STUDY_DAY - 15\n",
     ")\n",
     "\n",
     "print(f\"Total Cohort Size: {df_targets_final['STUDY_PRTCPT_ID'].nunique()} patients.\")\n",
@@ -2797,7 +2796,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 149,
+   "execution_count": 29,
    "id": "d69130e6-91ac-4616-905d-c935255f4e33",
    "metadata": {},
    "outputs": [
@@ -2818,7 +2817,249 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 150,
+   "execution_count": 30,
+   "id": "b513bc5a-f2b5-4909-8b3a-f29c84acbe45",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Data points for analysis: 4056\n",
+      "Number of Unique values(Patients): 140\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>STUDY_PRTCPT_ID</th>\n",
+       "      <th>Group</th>\n",
+       "      <th>DaysFromTransplant</th>\n",
+       "      <th>sedentary</th>\n",
+       "      <th>lightly_active</th>\n",
+       "      <th>moderately_active</th>\n",
+       "      <th>very_active</th>\n",
+       "      <th>total_active_minutes</th>\n",
+       "      <th>total_measured_minutes</th>\n",
+       "      <th>coverage</th>\n",
+       "      <th>...</th>\n",
+       "      <th>DEEP_MIN</th>\n",
+       "      <th>LIGHT_MIN</th>\n",
+       "      <th>REM_MIN</th>\n",
+       "      <th>WAKE_MIN</th>\n",
+       "      <th>DEEP_COUNT</th>\n",
+       "      <th>LIGHT_COUNT</th>\n",
+       "      <th>REM_COUNT</th>\n",
+       "      <th>WAKE_COUNT</th>\n",
+       "      <th>MOOD</th>\n",
+       "      <th>time_stamp</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>P001</td>\n",
+       "      <td>Patients</td>\n",
+       "      <td>0</td>\n",
+       "      <td>134</td>\n",
+       "      <td>15</td>\n",
+       "      <td>2</td>\n",
+       "      <td>0</td>\n",
+       "      <td>17</td>\n",
+       "      <td>151</td>\n",
+       "      <td>0.104861</td>\n",
+       "      <td>...</td>\n",
+       "      <td>81.0</td>\n",
+       "      <td>325.0</td>\n",
+       "      <td>172.0</td>\n",
+       "      <td>56.0</td>\n",
+       "      <td>2.0</td>\n",
+       "      <td>33.0</td>\n",
+       "      <td>7.0</td>\n",
+       "      <td>33.0</td>\n",
+       "      <td>9.0</td>\n",
+       "      <td>18:24:09</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>P001</td>\n",
+       "      <td>Patients</td>\n",
+       "      <td>1</td>\n",
+       "      <td>125</td>\n",
+       "      <td>13</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>14</td>\n",
+       "      <td>139</td>\n",
+       "      <td>0.096528</td>\n",
+       "      <td>...</td>\n",
+       "      <td>89.0</td>\n",
+       "      <td>255.0</td>\n",
+       "      <td>185.0</td>\n",
+       "      <td>62.0</td>\n",
+       "      <td>3.0</td>\n",
+       "      <td>23.0</td>\n",
+       "      <td>12.0</td>\n",
+       "      <td>23.0</td>\n",
+       "      <td>9.0</td>\n",
+       "      <td>18:04:39</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>P001</td>\n",
+       "      <td>Patients</td>\n",
+       "      <td>2</td>\n",
+       "      <td>138</td>\n",
+       "      <td>11</td>\n",
+       "      <td>7</td>\n",
+       "      <td>3</td>\n",
+       "      <td>21</td>\n",
+       "      <td>159</td>\n",
+       "      <td>0.110417</td>\n",
+       "      <td>...</td>\n",
+       "      <td>70.0</td>\n",
+       "      <td>352.0</td>\n",
+       "      <td>97.0</td>\n",
+       "      <td>78.0</td>\n",
+       "      <td>3.0</td>\n",
+       "      <td>28.0</td>\n",
+       "      <td>10.0</td>\n",
+       "      <td>23.0</td>\n",
+       "      <td>7.0</td>\n",
+       "      <td>18:59:35</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>P001</td>\n",
+       "      <td>Patients</td>\n",
+       "      <td>3</td>\n",
+       "      <td>182</td>\n",
+       "      <td>3</td>\n",
+       "      <td>8</td>\n",
+       "      <td>12</td>\n",
+       "      <td>23</td>\n",
+       "      <td>205</td>\n",
+       "      <td>0.142361</td>\n",
+       "      <td>...</td>\n",
+       "      <td>26.0</td>\n",
+       "      <td>459.0</td>\n",
+       "      <td>83.0</td>\n",
+       "      <td>102.0</td>\n",
+       "      <td>3.0</td>\n",
+       "      <td>36.0</td>\n",
+       "      <td>8.0</td>\n",
+       "      <td>31.0</td>\n",
+       "      <td>7.0</td>\n",
+       "      <td>18:09:33</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>P001</td>\n",
+       "      <td>Patients</td>\n",
+       "      <td>4</td>\n",
+       "      <td>150</td>\n",
+       "      <td>9</td>\n",
+       "      <td>7</td>\n",
+       "      <td>6</td>\n",
+       "      <td>22</td>\n",
+       "      <td>172</td>\n",
+       "      <td>0.119444</td>\n",
+       "      <td>...</td>\n",
+       "      <td>69.0</td>\n",
+       "      <td>283.0</td>\n",
+       "      <td>142.0</td>\n",
+       "      <td>75.0</td>\n",
+       "      <td>4.0</td>\n",
+       "      <td>27.0</td>\n",
+       "      <td>13.0</td>\n",
+       "      <td>28.0</td>\n",
+       "      <td>6.0</td>\n",
+       "      <td>18:15:23</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "<p>5 rows × 48 columns</p>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "  STUDY_PRTCPT_ID     Group  DaysFromTransplant  sedentary  lightly_active  \\\n",
+       "0            P001  Patients                   0        134              15   \n",
+       "1            P001  Patients                   1        125              13   \n",
+       "2            P001  Patients                   2        138              11   \n",
+       "3            P001  Patients                   3        182               3   \n",
+       "4            P001  Patients                   4        150               9   \n",
+       "\n",
+       "   moderately_active  very_active  total_active_minutes  \\\n",
+       "0                  2            0                    17   \n",
+       "1                  1            0                    14   \n",
+       "2                  7            3                    21   \n",
+       "3                  8           12                    23   \n",
+       "4                  7            6                    22   \n",
+       "\n",
+       "   total_measured_minutes  coverage  ...  DEEP_MIN  LIGHT_MIN  REM_MIN  \\\n",
+       "0                     151  0.104861  ...      81.0      325.0    172.0   \n",
+       "1                     139  0.096528  ...      89.0      255.0    185.0   \n",
+       "2                     159  0.110417  ...      70.0      352.0     97.0   \n",
+       "3                     205  0.142361  ...      26.0      459.0     83.0   \n",
+       "4                     172  0.119444  ...      69.0      283.0    142.0   \n",
+       "\n",
+       "   WAKE_MIN  DEEP_COUNT  LIGHT_COUNT  REM_COUNT  WAKE_COUNT  MOOD  time_stamp  \n",
+       "0      56.0         2.0         33.0        7.0        33.0   9.0    18:24:09  \n",
+       "1      62.0         3.0         23.0       12.0        23.0   9.0    18:04:39  \n",
+       "2      78.0         3.0         28.0       10.0        23.0   7.0    18:59:35  \n",
+       "3     102.0         3.0         36.0        8.0        31.0   7.0    18:09:33  \n",
+       "4      75.0         4.0         27.0       13.0        28.0   6.0    18:15:23  \n",
+       "\n",
+       "[5 rows x 48 columns]"
+      ]
+     },
+     "execution_count": 30,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Keep only the first 30 days for each patient\n",
+    "\n",
+    "# 1. Keep only Patients and the first 30 days\n",
+    "df_30d = merged_df[(merged_df['Group'] == 'Patients') & \n",
+    "                   (merged_df['DaysFromTransplant'] >= 0) & \n",
+    "                   (merged_df['DaysFromTransplant'] <= 30)].copy()\n",
+    "\n",
+    "# 2. Convert MOOD to numeric (just in case there are strings/NaNs)\n",
+    "df_30d['MOOD'] = pd.to_numeric(df_30d['MOOD'], errors='coerce')\n",
+    "\n",
+    "print(f\"Data points for analysis: {len(df_30d)}\")\n",
+    "df_30d.head()\n",
+    "print(\"Number of Unique values(Patients):\", len(df_30d['STUDY_PRTCPT_ID'].unique()))\n",
+    "#print(len(df_30d['STUDY_PRTCPT_ID'].unique()))\n",
+    "#print(df_30d['STUDY_PRTCPT_ID'].value_counts())\n",
+    "#print(df_30d.isna().sum())\n",
+    "#print(df_30d [df_30d ['Group'] == 'Patients']['STUDY_PRTCPT_ID'].nunique())\n",
+    "df_30d.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
    "id": "476ecd2f-a73a-4064-aeef-3c1e95a8e83f",
    "metadata": {},
    "outputs": [
@@ -2856,7 +3097,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 151,
+   "execution_count": 35,
    "id": "22978508-6023-4914-80a0-1fef90c5443c",
    "metadata": {},
    "outputs": [
@@ -2878,7 +3119,7 @@
        "      dtype='object')"
       ]
      },
-     "execution_count": 151,
+     "execution_count": 35,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2890,7 +3131,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 152,
+   "execution_count": 36,
    "id": "dde5a12d-d25b-48a0-b3f4-cf6f5418aa82",
    "metadata": {},
    "outputs": [
@@ -2905,8 +3146,8 @@
       "Final Patients ready for survival model: 130\n",
       "Final Class distribution:\n",
       "readmission_label\n",
-      "0    79\n",
-      "1    51\n",
+      "1    69\n",
+      "0    61\n",
       "Name: count, dtype: int64\n"
      ]
     }
@@ -2986,7 +3227,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 153,
+   "execution_count": 37,
    "id": "921007c9-602a-4abb-b972-bd5c4871130a",
    "metadata": {},
    "outputs": [
@@ -3027,7 +3268,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 154,
+   "execution_count": null,
+   "id": "6b4ebcd5-2d65-49be-95f6-e0cb98debaf0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
    "id": "af8535a4-9ff3-4343-b99a-7d2f25be94da",
    "metadata": {},
    "outputs": [
@@ -3049,39 +3298,50 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 155,
+   "execution_count": 40,
    "id": "0f650594-65f6-4d46-99cb-0d1c710c0b6f",
    "metadata": {},
    "outputs": [
     {
-     "data": {
-      "text/plain": [
-       "Index(['STUDY_PRTCPT_ID', 'readmission_label', 'time_to_event',\n",
-       "       'total_steps_mean', 'total_steps_sum', 'percent_active_mean',\n",
-       "       'moderately_active_mean', 'morning_steps_mean',\n",
-       "       'mean_steps_per_minute_mean', 'night_hr_mean', 'night_hr_std',\n",
-       "       'mean_hr_mean', 'circadian_blunting_index_mean',\n",
-       "       'circadian_blunting_index_min', 'step_volatility_7d_max',\n",
-       "       'sleep_efficiency_mean', 'sleep_efficiency_min', 'sleep_efficiency_std',\n",
-       "       'ASLEEP_VALUE_max', 'MOOD_mean', 'MOOD_std', 'DaysFromTransplant_max',\n",
-       "       'step_trend_slope'],\n",
-       "      dtype='object')"
-      ]
-     },
-     "execution_count": 155,
-     "metadata": {},
-     "output_type": "execute_result"
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "STUDY_PRTCPT_ID                   0\n",
+      "readmission_label                 0\n",
+      "time_to_event                     0\n",
+      "total_steps_mean                  0\n",
+      "total_steps_sum                   0\n",
+      "percent_active_mean               0\n",
+      "moderately_active_mean            0\n",
+      "morning_steps_mean                0\n",
+      "mean_steps_per_minute_mean        0\n",
+      "night_hr_mean                     2\n",
+      "night_hr_std                      3\n",
+      "mean_hr_mean                      0\n",
+      "circadian_blunting_index_mean     2\n",
+      "circadian_blunting_index_min      2\n",
+      "step_volatility_7d_max            7\n",
+      "sleep_efficiency_mean            14\n",
+      "sleep_efficiency_min             14\n",
+      "sleep_efficiency_std             22\n",
+      "ASLEEP_VALUE_max                 14\n",
+      "MOOD_mean                        18\n",
+      "MOOD_std                         30\n",
+      "DaysFromTransplant_max            0\n",
+      "step_trend_slope                  0\n",
+      "dtype: int64\n"
+     ]
     }
    ],
    "source": [
     "## Final data set\n",
     "df_model_ready1.columns\n",
-    "#print(df_model_ready1.isna().sum())"
+    "print(df_model_ready1.isna().sum())"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 156,
+   "execution_count": 33,
    "id": "088132b9-9cca-4e1e-a369-5db2de01c0fa",
    "metadata": {},
    "outputs": [],
@@ -3091,7 +3351,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 157,
+   "execution_count": 89,
    "id": "395656af-5039-4370-b65b-049a683a7f70",
    "metadata": {},
    "outputs": [
@@ -3099,24 +3359,24 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      " Running Properly Tuned Penalized Cox (Coxnet) Survival Model...\n",
+      "🚀 Running Properly Tuned Penalized Cox (Coxnet) Survival Model...\n",
       "\n",
       "📊 ================= RESULTS ================= 📊\n",
-      "Mean C-index: 0.6124\n",
-      "Std C-index : 0.0925\n",
-      "95% CI      : [0.4311, 0.7937]\n",
+      "Mean C-index: 0.6117\n",
+      "Std C-index : 0.0931\n",
+      "95% CI      : [0.4292, 0.7942]\n",
       "=================================================\n",
       "\n",
       "🧬 ================= IMPORTANT FEATURES ================= 🧬\n",
       "                         Feature  Mean_Coefficient  Abs_Impact\n",
-      "0               total_steps_mean          1.503339    1.503339\n",
-      "2             morning_steps_mean         -1.487897    1.487897\n",
-      "5  circadian_blunting_index_mean         -0.468330    0.468330\n",
-      "3         step_volatility_7d_max          0.258974    0.258974\n",
-      "4                   night_hr_std          0.212451    0.212451\n",
-      "7           sleep_efficiency_min          0.204041    0.204041\n",
-      "1            percent_active_mean          0.172452    0.172452\n",
-      "6   circadian_blunting_index_min          0.126083    0.126083\n"
+      "0               total_steps_mean          1.237199    1.237199\n",
+      "2             morning_steps_mean         -1.098424    1.098424\n",
+      "5  circadian_blunting_index_mean         -0.403645    0.403645\n",
+      "7           sleep_efficiency_min          0.250072    0.250072\n",
+      "3         step_volatility_7d_max          0.242915    0.242915\n",
+      "4                   night_hr_std          0.213485    0.213485\n",
+      "1            percent_active_mean          0.139329    0.139329\n",
+      "6   circadian_blunting_index_min          0.092872    0.092872\n"
      ]
     }
    ],
@@ -3272,7 +3532,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 158,
+   "execution_count": 91,
    "id": "fd9a0343-6b2f-4850-8b85-aedfbdd4a7d6",
    "metadata": {},
    "outputs": [
@@ -3281,28 +3541,28 @@
      "output_type": "stream",
      "text": [
       " Running Random Survival Forest Pipeline...\n",
-      "Fold 1 C-index: 0.6816\n",
-      "Fold 2 C-index: 0.6455\n",
-      "Fold 3 C-index: 0.5503\n",
-      "Fold 4 C-index: 0.6578\n",
-      "Fold 5 C-index: 0.6915\n",
+      "Fold 1 C-index: 0.6972\n",
+      "Fold 2 C-index: 0.6054\n",
+      "Fold 3 C-index: 0.5392\n",
+      "Fold 4 C-index: 0.6526\n",
+      "Fold 5 C-index: 0.6825\n",
       "\n",
       "📊 ================= RESULTS ================= 📊\n",
-      "Mean C-index: 0.6453\n",
-      "Std C-index : 0.0503\n",
-      "95% CI      : [0.5468, 0.7439]\n",
+      "Mean C-index: 0.6354\n",
+      "Std C-index : 0.0574\n",
+      "95% CI      : [0.5228, 0.7480]\n",
       "=================================================\n",
       "\n",
       "🌲 ================= IMPORTANT FEATURES (RSF) ================= 🌲\n",
       "                         Feature  Importance\n",
-      "5  circadian_blunting_index_mean    0.096423\n",
-      "3         step_volatility_7d_max    0.032369\n",
-      "1            percent_active_mean    0.023994\n",
-      "4                   night_hr_std    0.023160\n",
-      "7           sleep_efficiency_min    0.020172\n",
-      "2             morning_steps_mean    0.013204\n",
-      "6   circadian_blunting_index_min    0.011754\n",
-      "0               total_steps_mean   -0.000242\n"
+      "5  circadian_blunting_index_mean    0.079787\n",
+      "3         step_volatility_7d_max    0.021257\n",
+      "1            percent_active_mean    0.011193\n",
+      "4                   night_hr_std    0.008136\n",
+      "7           sleep_efficiency_min    0.001472\n",
+      "6   circadian_blunting_index_min   -0.001440\n",
+      "2             morning_steps_mean   -0.002227\n",
+      "0               total_steps_mean   -0.013584\n"
      ]
     }
    ],
